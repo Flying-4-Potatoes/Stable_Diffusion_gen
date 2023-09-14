@@ -13,3 +13,6 @@
 3. 이미지를 표시하고 요약모델을 이용해 프롬프트를 요약한 후 해당 이미지를 생성
 4. 반복
 
+## 예시 이미지
+
+![image](https://github.com/Flying-4-Potatoes/Stable_Diffusion_gen/assets/79971467/56a9c4c5-a1af-4bf7-a2c4-f984da63f673)
