@@ -16,3 +16,6 @@
 ## 예시 이미지
 
 ![image](https://github.com/Flying-4-Potatoes/Stable_Diffusion_gen/assets/79971467/56a9c4c5-a1af-4bf7-a2c4-f984da63f673)
+
+
+![image](https://github.com/Flying-4-Potatoes/Stable_Diffusion_gen/assets/79971467/a079131e-bdb6-4e3c-9a1c-c12852427248)
